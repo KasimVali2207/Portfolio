@@ -4,21 +4,21 @@ const Projects = () => {
             title: "Full-Stack AI-Powered Autonomous QA Testing Agent",
             desc: "Developed an intelligent QA automation system leveraging RAG and LLM technology to auto-generate comprehensive test cases and production-ready Selenium scripts, reducing manual testing effort by 60%.",
             tech: ["FastAPI", "Streamlit", "ChromaDB", "Groq API", "Docker", "Azure"],
-            github: "https://github.com/KasimVali2207/Autonomous-QA-Agent",
+            github: "https://github.com/KasimVali2207/OCEANAI_ASSIGNMENT_",
             demo: "https://oceanaiqa.westus2.cloudapp.azure.com"
         },
         {
-            title: "AI-Powered Multilingual Video Summarization",
+            title: "Full-Stack AI-Powered Multilingual Video Summarization & Interactive Quiz Generator",
             desc: "Automated multilingual video summarization achieving 95% accuracy using Groq Whisper API. Features dual-language summarization, PDF downloads, and interactive quizzes.",
             tech: ["Groq API", "Whisper", "React", "Chart.js"],
-            github: null,
+            github: "https://github.com/KasimVali2207/AI_Lecture_Extractor.git",
             demo: "https://ai-lecture-extractor-2.onrender.com/"
         },
         {
             title: "Hospital Patient Registration Web App",
             desc: "Full-stack CRUD application reducing manual processing by 40%. Features real-time screenshot capture for auditability and mobile-friendly UI.",
             tech: ["Flask", "MongoDB", "Bootstrap", "html2canvas"],
-            github: null,
+            github: "https://github.com/KasimVali2207/Hospital_Patient_Registration.git",
             demo: "https://hospital-patient-registration-f2sr.onrender.com/"
         },
         {
