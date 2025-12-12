@@ -5,14 +5,14 @@ const Publications = () => {
             doi: "https://doi.org/10.31224/5919",
             description: "A novel framework for lifelong learning in autonomous agents inspired by biological memory consolidation processes, enabling efficient episodic memory management and knowledge retention.",
             venue: "engrXiv",
-            year: "2024"
+            year: "2025"
         },
         {
             title: "Autonomous QA Agent: A Retrieval-Augmented Framework for Reliable Selenium Script Generation",
             doi: "https://doi.org/10.31224/5891",
             description: "An intelligent QA automation system leveraging RAG and LLM technology to automatically generate comprehensive test cases and production-ready Selenium scripts.",
             venue: "engrXiv",
-            year: "2024"
+            year: "2025"
         }
     ];
 
