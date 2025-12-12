@@ -1,10 +1,21 @@
 const Skills = () => {
     const skillsData = [
-        { category: "Languages", items: ["Python", "C", "C++", "HTML", "CSS", "JavaScript"] },
-        { category: "Cloud & DevOps", items: ["AWS", "Azure", "Docker", "Kubernetes", "Jenkins", "Terraform", "Ansible", "CI/CD", "Linux"] },
-        { category: "Database", items: ["SQL", "MongoDB"] },
-        { category: "Machine Learning", items: ["NLP", "Deep Learning", "Generative AI", "LangGraph", "LangChain"] },
-        { category: "Tools", items: ["Git", "GitHub", "Flask", "PowerPoint"] }
+        {
+            category: "Programming Languages",
+            items: ["Python", "JavaScript", "TypeScript", "HTML", "CSS", "XML", "C", "C++", "Git", "GitHub"]
+        },
+        {
+            category: "Web Development",
+            items: ["React", "Node.js", "Express", "HTML", "CSS", "JavaScript", "SQL", "DBMS", "DSA", "OOP", "Computer Networks", "Flask", "MongoDB"]
+        },
+        {
+            category: "Machine Learning & AI",
+            items: ["Machine Learning", "Deep Learning", "NLP", "Generative AI", "LangGraph", "LangChain", "Artificial Intelligence"]
+        },
+        {
+            category: "Cloud & DevOps",
+            items: ["AWS", "Azure", "Docker", "Kubernetes", "Terraform", "Ansible", "CI/CD", "Jenkins", "Linux", "Operating Systems"]
+        }
     ];
 
     return (
